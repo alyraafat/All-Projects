@@ -34,7 +34,7 @@
 | Netflix Clone     | https://github.com/alyraafat/netflix-clone.git   |
 | Other React Projects     | https://github.com/alyraafat/React-Projects.git   |
 
-5. GUC Projects
+### GUC Projects
 * Semester 4
 
 | Name        | Links           | 
