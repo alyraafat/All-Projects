@@ -7,6 +7,7 @@
 | Dog Vision      | https://github.com/alyraafat/Dog-vision.git | 
 | Disaster or not?      | https://github.com/alyraafat/Disaster-or-not.git     |   
 | Face Detection | https://github.com/alyraafat/FaceDetection.git      |  
+| Malaria Dataset | https://github.com/alyraafat/Malaria-dataset.git     |  
 
 2. Problem Solving
 
@@ -33,6 +34,8 @@
 | Whatsapp Clone     | https://github.com/alyraafat/whatsapp-clone.git   |
 | Netflix Clone     | https://github.com/alyraafat/netflix-clone.git   |
 | Other React Projects     | https://github.com/alyraafat/React-Projects.git   |
+| Banking website (GUC Project)   | https://github.com/alyraafat/Banking-Website.git | 
+
 
 ### GUC Projects
 * Semester 4
@@ -54,3 +57,11 @@
 | Smart Car     | https://github.com/alyraafat/smart_car.git | 
 | BCD Adder    | https://github.com/alyraafat/BCD-adder.git   | 
 | Compression using RLE     | https://github.com/alyraafat/Media-project.git   |
+
+* Semester 6
+
+| Name        | Links           | 
+| ------------- |:-------------:| 
+| Banking website    | https://github.com/alyraafat/Banking-Website.git | 
+| Operating System     | https://github.com/alyraafat/OS_Project.git   | 
+| Mini DBMS     | https://github.com/alyraafat/DB2_Project.git | 
