@@ -7,7 +7,7 @@
 | Dog Vision      | https://github.com/alyraafat/Dog-vision.git | 
 | Disaster or not?      | https://github.com/alyraafat/Disaster-or-not.git     |   
 | Face Detection | https://github.com/alyraafat/FaceDetection.git      |  
-| Malaria Detection | https://github.com/alyraafat/Malaria-dataset.git     |  
+| Malaria Detection | https://github.com/alyraafat/Malaria-Detection.git    |  
 | Human Emotions Detection | https://github.com/alyraafat/Human-emotions-detection.git |
 
 2. Problem Solving
