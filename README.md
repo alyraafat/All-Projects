@@ -9,6 +9,7 @@
 | Face Detection | https://github.com/alyraafat/FaceDetection.git      |  
 | Malaria Detection | https://github.com/alyraafat/Malaria-Detection.git    |  
 | Human Emotions Detection | https://github.com/alyraafat/Human-emotions-detection.git |
+| Deep Learning Fundamentals | https://github.com/alyraafat/Deep-Learning-Fundamentals |
 
 2. Problem Solving
 
