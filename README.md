@@ -11,6 +11,8 @@
 | Human Emotions Detection | https://github.com/alyraafat/Human-emotions-detection.git |
 | Deep Learning Fundamentals | https://github.com/alyraafat/Deep-Learning-Fundamentals |
 | Object Detection with YOLO on Pascal VOC 2012 Dataset| https://github.com/alyraafat/Object-Detection-with-YOLO |
+| Image Segmentation using Oxford Pet Dataset | https://github.com/alyraafat/Image-Segmentation.git |
+
 2. Problem Solving
 
 | Name        | Links           | 
