@@ -1,6 +1,16 @@
 # All-Projects
 ### Personal Projects
-1. Deep Learning:
+## Table of Contents
+
+- [Deep Learning](#deep-learning)
+- [Problem Solving](#problem-solving)
+- [Mobile App Development](#mobile-app-development)
+- [Web Development](#web-development)
+- [GUC Projects](#guc-projects)
+  - [Semester 4](#semester-4)
+  - [Semester 5](#semester-5)
+  - [Semester 6](#semester-6)
+### Deep Learning:
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -13,13 +23,13 @@
 | Object Detection with YOLO on Pascal VOC 2012 Dataset| https://github.com/alyraafat/Object-Detection-with-YOLO |
 | Image Segmentation using Oxford Pet Dataset | https://github.com/alyraafat/Image-Segmentation.git |
 
-2. Problem Solving
+### Problem Solving
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
 | Leetcode-interview-crash-course-data-structures-and-algorithms      | https://github.com/alyraafat/Leetcode-interview-crash-course-data-structures-and-algorithms.git | 
 
-3. Mobile App Development
+### Mobile App Development
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -27,7 +37,7 @@
 | School Admin System      | https://github.com/alyraafat/school_admin_system.git    | 
  
  
- 4. Web Development
+ ### Web Development
  
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -42,7 +52,7 @@
 
 
 ### GUC Projects
-* Semester 4
+#### Semester 4
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -52,7 +62,7 @@
 | Audio Processing     | https://github.com/alyraafat/audio-processing.git   | 
 | Basic Computer Construction     | https://github.com/alyraafat/basic-computer-construction.git   |
 
-* Semester 5
+#### Semester 5
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -62,7 +72,7 @@
 | BCD Adder    | https://github.com/alyraafat/BCD-adder.git   | 
 | Compression using RLE     | https://github.com/alyraafat/Media-project.git   |
 
-* Semester 6
+#### Semester 6
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
