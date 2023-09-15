@@ -10,7 +10,7 @@
   - [Semester 4](#semester-4)
   - [Semester 5](#semester-5)
   - [Semester 6](#semester-6)
-### Deep Learning:
+### Deep Learning
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -49,7 +49,7 @@
 | Netflix Clone     | https://github.com/alyraafat/netflix-clone.git   |
 | Other React Projects     | https://github.com/alyraafat/React-Projects.git   |
 | Banking website (GUC Project)   | https://github.com/alyraafat/Banking-Website.git | 
-
+| Travelling Website (GUC Project) | https://github.com/alyraafat/Networks-project.git |
 
 ### GUC Projects
 #### Semester 4
