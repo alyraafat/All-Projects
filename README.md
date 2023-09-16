@@ -49,7 +49,7 @@
 | Netflix Clone     | https://github.com/alyraafat/netflix-clone.git   |
 | Other React Projects     | https://github.com/alyraafat/React-Projects.git   |
 | Banking website (GUC Project)   | https://github.com/alyraafat/Banking-Website.git | 
-| Travelling Website (GUC Project) | https://github.com/alyraafat/Networks-project.git |
+| Travelling Website (GUC Project) | https://github.com/alyraafat/Travelling-Website-Networks-project.git |
 
 ### GUC Projects
 #### Semester 4
@@ -66,7 +66,7 @@
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
-| Travelling Website     | https://github.com/alyraafat/Networks-project.git | 
+| Travelling Website     | https://github.com/alyraafat/Travelling-Website-Networks-project.git | 
 | Football Reservation System     | https://github.com/alyraafat/Database1-Project.git   | 
 | Smart Car     | https://github.com/alyraafat/smart_car.git | 
 | BCD Adder    | https://github.com/alyraafat/BCD-adder.git   | 
