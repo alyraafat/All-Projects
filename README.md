@@ -1,5 +1,4 @@
-# All-Projects
-### Personal Projects
+# My All Personal Projects
 ## Table of Contents
 
 - [Deep Learning](#deep-learning)
