@@ -22,6 +22,7 @@
 | Object Detection with YOLO on Pascal VOC 2012 Dataset| https://github.com/alyraafat/Object-Detection-with-YOLO |
 | Image Segmentation using Oxford Pet Dataset | https://github.com/alyraafat/Image-Segmentation.git |
 | Counting People in Crowds using Shanghai dataset| https://github.com/alyraafat/Counting_People_in_Crowds.git |
+| Image Generation | https://github.com/alyraafat/Image-Generation.git |
 
 ### Problem Solving
 
