@@ -9,6 +9,7 @@
   - [Semester 4](#semester-4)
   - [Semester 5](#semester-5)
   - [Semester 6](#semester-6)
+  - [Semester 7](#semester-7)
 ### Deep Learning
 
 | Name        | Links           | 
@@ -51,6 +52,7 @@
 | Other React Projects     | https://github.com/alyraafat/React-Projects.git   |
 | Banking website (GUC Project)   | https://github.com/alyraafat/Banking-Website.git | 
 | Travelling Website (GUC Project) | https://github.com/alyraafat/Travelling-Website-Networks-project.git |
+|  Tomasulo Algorithm Simulator (GUC Project) | https://github.com/alyraafat/Tomasulo-Algorithm-Simulator.git   | 
 
 ### GUC Projects
 #### Semester 4
@@ -80,3 +82,10 @@
 | Banking website    | https://github.com/alyraafat/Banking-Website.git | 
 | Operating System     | https://github.com/alyraafat/OS_Project.git   | 
 | Mini DBMS     | https://github.com/alyraafat/DB2_Project.git | 
+
+#### Semester 7
+
+| Name        | Links           | 
+| ------------- |:-------------:| 
+| Need for speed 0.0    | https://github.com/alyraafat/Need-for-Speed-0.0.git | 
+|  Tomasulo Algorithm Simulator | https://github.com/alyraafat/Tomasulo-Algorithm-Simulator.git   | 
