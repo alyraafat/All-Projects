@@ -53,6 +53,8 @@
 | Banking website (GUC Project)   | https://github.com/alyraafat/Banking-Website.git | 
 | Travelling Website (GUC Project) | https://github.com/alyraafat/Travelling-Website-Networks-project.git |
 |  Tomasulo Algorithm Simulator (GUC Project) | https://github.com/alyraafat/Tomasulo-Algorithm-Simulator.git   | 
+| Abo-mota-clinic (GUC Project) | https://github.com/alyraafat/Abo-Mota-Clinic |
+| Abo-mota-pharmacy (GUC Project) | https://github.com/alyraafat/Abo-Mota-Pharmacy |
 
 ### GUC Projects
 #### Semester 4
@@ -89,3 +91,5 @@
 | ------------- |:-------------:| 
 | Need for speed 0.0    | https://github.com/alyraafat/Need-for-Speed-0.0.git | 
 |  Tomasulo Algorithm Simulator | https://github.com/alyraafat/Tomasulo-Algorithm-Simulator.git   | 
+| Abo-mota-clinic | https://github.com/alyraafat/Abo-Mota-Clinic |
+| Abo-mota-pharmacy | https://github.com/alyraafat/Abo-Mota-Pharmacy |
