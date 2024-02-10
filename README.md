@@ -26,6 +26,7 @@
 | Image Generation | https://github.com/alyraafat/Image-Generation.git |
 | Transformers from Scratch  |  https://github.com/alyraafat/Transformers-from-scratch.git |
 | Machine Learning Fundamentals | https://github.com/alyraafat/Machine-Learning-Fundamentals.git  |
+| Machine Learning Applications | https://github.com/alyraafat/Machine-Learning-Applications.git |
 
 ### Problem Solving
 
