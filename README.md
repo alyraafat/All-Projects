@@ -1,7 +1,7 @@
 # All My Personal Projects
 ## Table of Contents
 
-- [Deep Learning](#deep-learning)
+- [Machine/Deep Learning](#machinedeep-learning)
 - [Problem Solving](#problem-solving)
 - [Mobile App Development](#mobile-app-development)
 - [Web Development](#web-development)
@@ -10,7 +10,7 @@
   - [Semester 5](#semester-5)
   - [Semester 6](#semester-6)
   - [Semester 7](#semester-7)
-### Deep Learning
+### Machine/Deep Learning
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
@@ -24,6 +24,8 @@
 | Image Segmentation using Oxford Pet Dataset | https://github.com/alyraafat/Image-Segmentation.git |
 | Counting People in Crowds using Shanghai dataset| https://github.com/alyraafat/Counting_People_in_Crowds.git |
 | Image Generation | https://github.com/alyraafat/Image-Generation.git |
+| Transformers from Scratch  |  https://github.com/alyraafat/Transformers-from-scratch.git |
+| Machine Learning Fundamentals | https://github.com/alyraafat/Machine-Learning-Fundamentals.git  |
 
 ### Problem Solving
 
